@@ -1,1 +1,2 @@
-1. creacion de ddl para tabla hive:
+-- 1. creacion de ddl para tabla hive
+-- 2. author 
